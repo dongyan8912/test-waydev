@@ -51,3 +51,9 @@ def read_gor():
 
 read_gor()
 
+m = 100
+
+while(m>0){
+  m = m-1
+  print('hello')
+}
