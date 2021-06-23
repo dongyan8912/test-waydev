@@ -19,3 +19,9 @@ b = 1 && 0
 
 c = 1>0
 
+m = 100
+
+while(m>0){
+  m = m-1
+  print('hello')
+}
